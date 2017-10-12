@@ -1,0 +1,2 @@
+[flake8]
+exclude=.git,.direnv,.mypy_cache

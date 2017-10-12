@@ -9,5 +9,5 @@ setup(
     description='Memoize decorator with expire timeout.',
     author='Kjwon15',
     url='https://github.com/kjwon15/cache-expire',
-    packages=['cache_expire'],
+    py_modules=['cache_expire'],
 )
